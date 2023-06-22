@@ -1,5 +1,5 @@
 #include "teacher.h"
 
 int main(void){
-     steacher( );
+     teacherFunction();
 return 0; }
