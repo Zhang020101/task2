@@ -10,4 +10,4 @@ struct teacherData{
 	struct teacherAddress teacher_Address;
 };
 
-void steacher(void);
+void sTeacher(void);
