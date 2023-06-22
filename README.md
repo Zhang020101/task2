@@ -1,11 +1,12 @@
-# task2
 # Overview
 
 Source C project with structures.
 
 # Usage
 
-Use `make` to build project. # Building
+Use `make` to build project. 
+
+# Building
 
 Use follow command
 
