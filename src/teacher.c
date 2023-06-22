@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include "teacher.h"
 
-void steacher (void)
+void sTeacher (void)
 {
 
 struct teacherData teacher;
