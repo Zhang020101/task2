@@ -5,7 +5,7 @@ struct teacher_Address{
 };
 struct teacherData{
 	char *teacher_name;
-	int tacher_id;
+	int teacher_id;
 	int teacher_age;
 	struct teacher_Address teacherAddress;
 };
