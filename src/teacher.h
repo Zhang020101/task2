@@ -1,4 +1,4 @@
-struct teacher_Address{
+struct teacherAddress{
 	char *street;
 	char *state;
 	char *city;
@@ -7,7 +7,7 @@ struct teacherData{
 	char *teacher_name;
 	int teacher_id;
 	int teacher_age;
-	struct teacher_Address teacherAddress;
+	struct teacherAddress teacher_Address;
 };
 
 void steacher(void);
